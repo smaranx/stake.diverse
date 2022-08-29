@@ -29,11 +29,13 @@ const HomePage: NextPageWithLayout<
         <div className="mb-8 w-full sm:mb-0 sm:w-1/2 sm:pr-6 md:w-[calc(100%-256px)] lg:w-[calc(100%-288px)] 2xl:w-[calc(100%-320px)] 3xl:w-[calc(100%-358px)]">
           {/*<CoinSlider coins={coinSlideData} />*/}
         </div>
-          <div>
-          <h4>
-            Dear Diverse holders, <br/>A snapshot will be taken every month to update
-            the holders with the amount of nfts incase of buying/selling.
-          </h4>
+           <div>
+          <h4>Dear Diverse holders, </h4>
+          <br />
+          <h3>
+            A snapshot will be taken every month to update the holders with the
+            amount of nfts incase of buying/selling.
+          </h3>
         </div>
         {/* <div className="w-full sm:w-1/2 md:w-64 lg:w-72 2xl:w-80 3xl:w-[358px]">
           <div className="flex h-full flex-col justify-center rounded-lg bg-white p-6 shadow-card dark:bg-light-dark xl:p-8">
