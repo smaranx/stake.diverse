@@ -31,7 +31,7 @@ const HomePage: NextPageWithLayout<
         </div>
           <div>
           <h4>
-            Dear Diverse holders, A snapshot will be taken every month to update
+            Dear Diverse holders, <br/>A snapshot will be taken every month to update
             the holders with the amount of nfts incase of buying/selling.
           </h4>
         </div>
